@@ -1,0 +1,6 @@
+C:\Users\Oksana\source\repos\HomeworkLesson3\Task5\bin\Debug\Task5.exe.config
+C:\Users\Oksana\source\repos\HomeworkLesson3\Task5\bin\Debug\Task5.exe
+C:\Users\Oksana\source\repos\HomeworkLesson3\Task5\bin\Debug\Task5.pdb
+C:\Users\Oksana\source\repos\HomeworkLesson3\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\source\repos\HomeworkLesson3\Task5\obj\Debug\Task5.exe
+C:\Users\Oksana\source\repos\HomeworkLesson3\Task5\obj\Debug\Task5.pdb
